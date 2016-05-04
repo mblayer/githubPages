@@ -73,6 +73,9 @@ p, a {
 .verProyectos{
   min-height: 700px;
 }
+.verBranch{
+  min-height: 500px;
+}
 nav li{
   display: inline-block;
 }
