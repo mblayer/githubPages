@@ -1,0 +1,78 @@
+a {
+    font-size: 20px;
+    color: black;
+}
+h1, h2, h3 {
+    font-family: 'Boogaloo', cursive;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 30px;
+}
+h4{
+  margin: 5% 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+header {
+    margin-bottom: 10%;
+}
+header {
+    background-color: #388E3C;
+}
+p, a {
+    font-family: 'Lato', sans-serif;
+}
+.espacioRow {
+    margin: 5% 0;
+}
+.footer {
+    border-top: .5px solid #B6B6B6;
+}
+.infoEnlaces {
+    background-color: #8BC34A;
+    padding: 5% 0;
+}
+.infoMenor {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 3%;
+}
+.jumbotron {
+    background: transparent;
+}
+.jumbotron img {
+    margin: 1% 0;
+}
+.jumbotron span {
+    font-size: 80px;
+    color: black;
+}
+.textoExplicativo {
+    font-size: 20px;
+}
+.textoBranch{
+  margin: 8% 0;
+}
+.textoBranch p{
+  font-size: 25px;
+}
+.textoCodigo {
+    font-size: 12px;
+}
+.verProyectos .textoCodigo {
+    font-size: 20px;
+}
+.verProyectos {
+    background-color: #4CAF50;
+}
+.redes{
+  font-size: 35px;
+}
+.verProyectos{
+  min-height: 700px;
+}
+nav li{
+  display: inline-block;
+}
